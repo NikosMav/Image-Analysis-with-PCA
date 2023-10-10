@@ -38,4 +38,27 @@ Before running the code in this repository, make sure you have the following pre
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/NikosMav/machine-learning-homework.git
+git clone https://github.com/NikosMav/Image-Analysis-with-PCA.git
+
+
+2. Open the Jupyter Notebook or Python script provided in the repository.
+
+3. Follow the instructions in the notebook/script to run the code for each task.
+
+4. Examine the results and documentation provided in the notebook/script to understand the outcomes of each task.
+
+## Results
+
+- The results of the PCA visualization, k-NN classification, and NMF experiments can be found within the provided Jupyter Notebook or Python script.
+
+- The README file provides explanations and insights into the tasks and results.
+
+## Contributors
+
+- [NikosMav](https://github.com/NikosMav) - Replace with your GitHub profile URL.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+

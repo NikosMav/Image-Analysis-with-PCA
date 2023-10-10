@@ -2,16 +2,6 @@
 
 This repository contains the code and documentation for a machine learning homework assignment. The assignment involves tasks related to image preprocessing, dimensionality reduction using PCA (Principal Component Analysis), classification using k-Nearest Neighbors (k-NN), and Non-negative Matrix Factorization (NMF).
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Tasks](#tasks)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
-
 ## Introduction
 
 This machine learning homework focuses on the following tasks:

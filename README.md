@@ -40,7 +40,6 @@ Before running the code in this repository, make sure you have the following pre
 
 git clone https://github.com/NikosMav/Image-Analysis-with-PCA.git
 
-
 2. Open the Jupyter Notebook or Python script provided in the repository.
 
 3. Follow the instructions in the notebook/script to run the code for each task.
@@ -50,12 +49,6 @@ git clone https://github.com/NikosMav/Image-Analysis-with-PCA.git
 ## Results
 
 - The results of the PCA visualization, k-NN classification, and NMF experiments can be found within the provided Jupyter Notebook or Python script.
-
-- The README file provides explanations and insights into the tasks and results.
-
-## Contributors
-
-- [NikosMav](https://github.com/NikosMav) - Replace with your GitHub profile URL.
 
 ## License
 

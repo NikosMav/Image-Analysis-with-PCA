@@ -28,7 +28,9 @@ Before running the code in this repository, make sure you have the following pre
 
 1. Clone this repository to your local machine:
 
-``` git clone https://github.com/NikosMav/Image-Analysis-with-PCA.git ```
+```bash
+git clone https://github.com/NikosMav/Image-Analysis-with-PCA.git
+```
 
 2. Open the Jupyter Notebook or Python script provided in the repository.
 
